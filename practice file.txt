@@ -1,2 +1,4 @@
-Name: Eyob Tamiru       Id.NO: ETS 0549/17        Section: B
-Name: Eyob Arega        Id.No: ETS 0538/17        Section: B
+Group members:-
+
+1. Name: Eyob Tamiru       Id.NO: ETS 0549/17        Section: B
+2. Name: Eyob Arega        Id.No: ETS 0538/17        Section: B
